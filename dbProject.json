@@ -4,6 +4,7 @@
       "id": 1,
       "username": "Putra",
       "email": "putra@gmail.com",
+      "status": "admin",
       "password": "123456"
     },
     {
@@ -35,6 +36,13 @@
       "email": "bili@gmail.com",
       "password": "123456",
       "id": 6
+    },
+    {
+      "username": "bocah",
+      "email": "bocah@gmail.com",
+      "password": "123456",
+      "status": "admin",
+      "id": 7
     }
   ],
   "newArrival": [
@@ -183,6 +191,342 @@
       "brand": "nike",
       "type": "running",
       "url": "https://render.nikeid.com/ir/render/nikeidrender/epicFKSP18ess1804_v1?obj=/s/shadow/shad&show&color=000000&obj=/s/g2&color=ffffff&show&obj=/s/g7&color=f7f7fd&show&obj=/s/g5&color=cad3d5&show&obj=/s/g6&color=cad3d5&show&obj=/s/g9&color=f7f7fd&show&obj=/s/g10&color=f7f7fd&show&obj=/s/g1/10a&show&obj=/s/g4/met&color=b58341&show&obj=/s/g8/ano&color=45454a&show&obj=/s/g11/solid&color=ffffff&show&obj=/s/g16&color=f1f1ea&show&obj=/s/g17&color=44464a&show&obj=/s/g18&color=44464a&show&obj=/s&req=object&fmt=png-alpha&icc=AdobeRGB&wid=1500"
+    },
+    {
+      "name": "Pro Elevate Shoes",
+      "type": "basket ball",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/small_image/230x/9df78eab33525d08d6e5fb8d27136e95/A/P/AP9833_SL_eCom.jpg",
+      "price": "1300000",
+      "id": 11
+    },
+    {
+      "name": "Mad Bounce 2018 Shoes",
+      "type": "basket ball",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/4/B41873_SL_eCom.jpg",
+      "price": "1600000",
+      "id": 12
+    },
+    {
+      "name": "Explosive Bounce 2018 Shoes",
+      "type": "basket ball",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/B/BB7295_SL_eCom.jpg",
+      "price": "1600000",
+      "id": 13
+    },
+    {
+      "name": "PG 2.5",
+      "type": "basket ball",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/pvlvtqu71ktwsor74akv/pg-25-basketball-shoe-qsz0mt.jpg",
+      "price": "1100000",
+      "id": 14
+    },
+    {
+      "name": "Kyrie 4 70s",
+      "type": "basket ball",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/aobox4ba56rb1c6rmaw1/kyrie-4-70s-basketball-shoe-hDrjTh.jpg",
+      "price": "1100000",
+      "id": 15
+    },
+    {
+      "name": "Nike KD Trey 5 VI",
+      "type": "basket ball",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/tfk5unsnsahoisdtp4dh/kd-trey-5-vi-basketball-shoe-KSxhGH.jpg",
+      "price": "1100000",
+      "id": 16
+    },
+    {
+      "name": "BB 5600 ARCHIVE",
+      "type": "basket ball",
+      "brand": "reebok",
+      "url": "https://www.reebok.com/dis/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-reebok-products/default/dw141c43db/zoom/CN5692_01_standard.jpg?sh=840&strip=false&sw=840",
+      "price": "1100000",
+      "id": 17
+    },
+    {
+      "name": "MOBIUS OG MU",
+      "type": "basket ball",
+      "brand": "reebok",
+      "url": "https://www.reebok.com/dis/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-reebok-products/default/dw2abf2111/zoom/CN7885_01_standard.jpg?sh=840&strip=false&sw=840",
+      "price": "1100000",
+      "id": 18
+    },
+    {
+      "name": "MOBIUS OG MU",
+      "type": "basket ball",
+      "brand": "reebok",
+      "url": "https://www.reebok.com/dis/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-reebok-products/en_US/dwb8ab5351/zoom/CN7884_01_standard.jpg?sh=840&strip=false&sw=840",
+      "price": "1100000",
+      "id": 19
+    },
+    {
+      "name": "Men's UA Curry 2.5 Basketball Shoes",
+      "type": "basket ball",
+      "brand": "under armor",
+      "url": "https://underarmour.scene7.com/is/image/Underarmour/V5ProdWithBadge?rp=standard-10pad|gridTileDesktop&scl=1&fmt=jpg&qlt=83&resMode=sharp2&cache=on,off&bgc=F7F7F7&rect=0,0,281,345&$p_pos=141,172&$p_size=281,325&extendN=0,0.000,0,0&$p_src=is{Underarmour/1274425-400_DEFAULT}",
+      "price": "1100000",
+      "id": 20
+    },
+    {
+      "name": "Men's UA Rocket 3 Basketball Shoes",
+      "type": "basket ball",
+      "brand": "under armor",
+      "url": "https://underarmour.scene7.com/is/image/Underarmour/V5ProdWithBadge?rp=standard-10pad|gridTileDesktop&scl=1&fmt=jpg&qlt=83&resMode=sharp2&cache=on,off&bgc=F7F7F7&rect=0,0,281,345&$p_pos=141,172&$p_size=281,325&extendN=0,0.000,0,0&$p_src=is{Underarmour/3000087-005_DEFAULT}",
+      "price": "1100000",
+      "id": 21
+    },
+    {
+      "name": "Men's UA Jet Mid Basketball Shoes",
+      "type": "basket ball",
+      "brand": "under armor",
+      "url": "https://underarmour.scene7.com/is/image/Underarmour/V5ProdWithBadge?rp=standard-10pad|gridTileDesktop&scl=1&fmt=jpg&qlt=83&resMode=sharp2&cache=on,off&bgc=F7F7F7&rect=0,0,281,345&$p_pos=141,172&$p_size=281,325&extendN=0,0.000,0,0&$p_src=is{Underarmour/3020623-001_DEFAULT}",
+      "price": "1100000",
+      "id": 22
+    },
+    {
+      "name": "Predator Tango 18.4 Indoor Boots",
+      "type": "futsal",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/B/DB2335_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 23
+    },
+    {
+      "name": "Predator Tango 18.3 Indoor Boots",
+      "type": "futsal",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/B/DB2129_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 24
+    },
+    {
+      "name": "Predator Tango 18.3 Indoor Boots",
+      "type": "futsal",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/B/DB2324_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 25
+    },
+    {
+      "name": "Nike TiempoX Legend VII Club TF",
+      "type": "futsal",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/rnz3gu6rpba1cttynraz/tiempox-legend-vii-club-turf-soccer-cleat-9knobk.jpg",
+      "price": "1100000",
+      "id": 26
+    },
+    {
+      "name": "Nike TiempoX Legend VII Academy TF",
+      "type": "futsal",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/rqyin99xjxfdqbxgtbw5/tiempox-legend-vii-academy-turf-soccer-cleat-reRNZR.jpg",
+      "price": "1100000",
+      "id": 27
+    },
+    {
+      "name": "Nike MercurialX Superfly VI Academy TF",
+      "type": "futsal",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/e4u98q4ziihk6u5ko8at/mercurialx-superfly-vi-academy-artificial-turf-soccer-shoe-ERTB3PyG.jpg",
+      "price": "1100000",
+      "id": 28
+    },
+    {
+      "name": "Furon v4 Dispatch TF",
+      "type": "futsal",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/msfdtfa4_nb_02_i?$dw_pgp_hd$&wid=180&hei=180&qlt=85&resMode=bisharp&fmt=webp",
+      "price": "1100000",
+      "id": 29
+    },
+    {
+      "name": "Audazo v3 Pro TF",
+      "type": "futsal",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/msaptlp3_nb_02_i?$dw_pgp_hd$&wid=180&hei=180&qlt=85&resMode=bisharp&fmt=webp",
+      "price": "1100000",
+      "id": 30
+    },
+    {
+      "name": "Audazo v3 Pro IN",
+      "type": "futsal",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/msapiwl3_nb_02_i?$dw_pgp_hd$&wid=180&hei=180&qlt=85&resMode=bisharp&fmt=webp",
+      "price": "1100000",
+      "id": 31
+    },
+    {
+      "name": "Tekela Pro FG",
+      "type": "soccer",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/msttfpg1_nb_02_i?$dw_pgp_hd$&wid=180&hei=180&qlt=85&resMode=bisharp&fmt=webp",
+      "price": "1100000",
+      "id": 32
+    },
+    {
+      "name": "Furon v4 Pro FG",
+      "type": "soccer",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/msfpffa4_nb_02_i?$dw_pgp_hd$&wid=180&hei=180&qlt=85&resMode=bisharp&fmt=webp",
+      "price": "1100000",
+      "id": 33
+    },
+    {
+      "name": "442 Pro FG",
+      "type": "soccer",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/msckfbw1_nb_02_i?$pdpPictLG$&fmt=webp",
+      "price": "1100000",
+      "id": 34
+    },
+    {
+      "name": "Nike Mercurial Vapor 360 Elite FG",
+      "type": "soccer",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/ms6e7jtyjyag8acmlnxz/mercurial-vapor-360-elite-firm-ground-soccer-cleat-ExWe83.jpg",
+      "price": "1100000",
+      "id": 35
+    },
+    {
+      "name": "Nike Mercurial Vapor XII Pro FG",
+      "type": "soccer",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/cofrnxpltepgdzh9830a/mercurial-vapor-xii-pro-firm-ground-soccer-cleat-N3LOPg.jpg",
+      "price": "1100000",
+      "id": 36
+    },
+    {
+      "name": "Nike Phantom Vision Academy iD",
+      "type": "soccer",
+      "brand": "nike",
+      "url": "https://render.nikeid.com/ir/render/nikeidrender/ACADEMYFA18_v1?obj=/s/shadow/shad&show&color=000000&obj=/s/g1&color=141414&show&obj=/s/g2&color=141414&show&obj=/s/g7&color=141414&show&obj=/s/g14&color=141414&show&obj=/s/g16&color=141414&show&obj=/s/g3&color=1a1b1b&show&obj=/s/g5&color=212121&show&obj=/s/g4/solid&color=ffffff&show&obj=/s/g6&color=ffffff&show&obj=/s/g8/tlogo&color=ffffff&show&obj=/s/g13&color=dafd17&show&obj=/s/g9/mg&color=d6ff53&show&obj=/s/g15&color=141414&show&obj=/s&req=object&fmt=png-alpha&icc=AdobeRGB&wid=1500",
+      "price": "1100000",
+      "id": 38
+    },
+    {
+      "name": "X 18.1 Firm Ground Boots",
+      "type": "soccer",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/B/DB2248_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 39
+    },
+    {
+      "name": "X 18.1 Firm Ground Boots",
+      "type": "soccer",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/B/DB2251_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 40
+    },
+    {
+      "name": "X 18.4 Flexible Ground Boots",
+      "type": "soccer",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/D/B/DB2188_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 41
+    },
+    {
+      "name": "Cloudfoam Advantage Clean Shoes",
+      "type": "sneaker",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/B/BB9624_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 42
+    },
+    {
+      "name": "Superstar 80s Clean Shoes",
+      "type": "sneaker",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/3/B38003_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 43
+    },
+    {
+      "name": "Campus Shoes",
+      "type": "sneaker",
+      "brand": "adidas",
+      "url": "https://static.shop.adidas.co.id/media/catalog/product/cache/1/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/3/B37826_SL_eCom.jpg",
+      "price": "1100000",
+      "id": 44
+    },
+    {
+      "name": "Nike Air Force 1 '07",
+      "type": "sneaker",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/gsuin11ptg5qgktmzoat/air-force-1-07-mens-shoe-JkTGzADv.jpg",
+      "price": "1100000",
+      "id": 45
+    },
+    {
+      "name": "Nike Air Span II SE",
+      "type": "sneaker",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/dvsrzciwpmii8da8wi7q/air-span-ii-se-mens-shoe-zSsh8s.jpg",
+      "price": "1100000",
+      "id": 46
+    },
+    {
+      "name": "Nike Air Max 1 Premium",
+      "type": "sneaker",
+      "brand": "nike",
+      "url": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/wbgpidqpv2f9nor1xtpa/air-max-1-premium-mens-shoe-Ob9Gqz.jpg",
+      "price": "1100000",
+      "id": 47
+    },
+    {
+      "name": "CLASSIC LEATHER",
+      "type": "sneaker",
+      "brand": "reebok",
+      "url": "https://www.reebok.com/dis/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-reebok-products/default/dwfbd1b261/zoom/V69624_01_standard.jpg?sh=840&strip=false&sw=840",
+      "price": "1100000",
+      "id": 48
+    },
+    {
+      "name": "CLASSIC LEATHER ALTERED",
+      "type": "sneaker",
+      "brand": "reebok",
+      "url": "https://www.reebok.com/dis/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-reebok-products/default/dwdd8ec125/zoom/DV5238_01_standard.jpg?sh=840&strip=false&sw=840",
+      "price": "1100000",
+      "id": 49
+    },
+    {
+      "name": "CLASSIC LEATHER",
+      "type": "sneaker",
+      "brand": "reebok",
+      "url": "https://www.reebok.com/dis/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-reebok-products/en_US/dwedaca2d0/zoom/CN4025_01_standard.jpg?sh=840&strip=false&sw=840",
+      "price": "1100000",
+      "id": 50
+    },
+    {
+      "name": "Mens 847v3",
+      "type": "sneaker",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/mw847wt3_nb_02_i?$pdpPictLG$&fmt=webp",
+      "price": "1100000",
+      "id": 51
+    },
+    {
+      "name": "Fresh Foam 1165",
+      "type": "sneaker",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/mw1165gy_nb_02_i?$pdpPictExp$&fmt=webp",
+      "price": "1100000",
+      "id": 52
+    },
+    {
+      "name": "1865",
+      "type": "sneaker",
+      "brand": "new balance",
+      "url": "https://nb.scene7.com/is/image/NB/mw1865bs_nb_02_i?$pdpPictExp$&fmt=webp",
+      "price": "1100000",
+      "id": 53
     }
   ]
 }
